@@ -35,7 +35,7 @@ dependencies:
   logger: ^2.5.0 # logging
   provider: ^6.1.5
   cupertino_icons: ^1.0.8
-  pocketbase: ^0.22.0
+  pocketbase: ^0.23.0
   fluttertoast: ^8.2.12
 
   # map stuff:
