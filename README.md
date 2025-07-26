@@ -1,6 +1,7 @@
 # connect_flutter
 
 A new Flutter project.
+test5
 
 ## Getting Started
 
@@ -66,13 +67,8 @@ samples, guidance on mobile development, and a full API reference.
 - Chatten nur in der aktuellen Area oder auch drum herum?
 - wann möglich andere Areas zu subscriben???
 - Wie weiter Location-Distance-Filter?
-- ...
-- Evtl: wenn unangemeldet kann der User alle Areas sehen und seine Location und die Chats öffnen, aber er darf nicht selbst Messages senden. 
-- Senden Button gibt dann die Nachricht DU bist nicht angemeldet. 
-- Und die Buttons für Goofle/Apple/Facebook/E-MailPassword erscheinen.
-- => TOP, gute Idee.
 - ....
-- ...test
+- ...
 - chat send message Button ausgrauen wenn guest-user nicht eingeloggt?
 - ...
 - ...
